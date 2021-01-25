@@ -53,7 +53,7 @@ Inspection of the map will show that regions closer to San Bernardino, and River
 
 
 <!-- USAGE EXAMPLES -->
-## Screenshots from App
+## Screenshots from QGIS
 <img src="images/QGIS.png" alt="Logo" width="976" height="608">
 
 
